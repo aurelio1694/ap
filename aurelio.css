@@ -1,0 +1,114 @@
+body {
+background:url('http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/old_moon.png');
+background-repeat: repeat;
+}
+
+
+h1 {
+    color: purple;
+    margin: 5px;
+    color :#3AEB0E;
+    font-size: 50px;
+    }
+
+img{
+    margin: 5px;
+    width: 200px;
+    }
+
+#map{
+    margin: 5px;
+    height: 300px;
+    width: 400px;
+    }
+
+.container-b{
+    background-color:grey;
+    margin: 10px;
+    width: 40%;
+    height: 1880px;
+}
+      
+.osos {
+    width: 200px;
+    height: 150px;
+    position: fixed;
+    display:inline-block;
+    right:10;
+    margin: 0px;
+}
+
+
+h2{
+    color: purple;
+    margin: 5px;
+    color:#0A02EB;font-size: 50px;
+}
+
+img{
+    margin: 5px;
+    width: 200px;
+}
+
+.calendar {
+    margin: 5px;
+}
+
+.A {
+    color: purple;
+    font-size: 30px;
+}
+
+.B {
+    color: purple;
+    font-size: 20px;
+}
+.C {
+    margin: 5px;
+    font-family: 'Bangers', cursive;
+    text-align: center;
+    color: purple;
+    font-size: 70px;
+}
+
+.D {
+    color: purple;
+    font-size: 35px;
+}
+
+
+.bikelifeContainer {
+    padding: 25px;
+    height: 400px;
+    width: 50%;
+    right: 0;
+    position: fixed;
+    display: inline-block;
+    float: left;
+
+}
+
+.bikelifePhoto {
+    background-image: url('real.jpg');
+    background-size: cover;
+    width: 400px;
+    height: 150px;
+    display: inline-block;
+    float: left;
+}
+
+.photoContainer {
+    width: 700px;
+    height: 300px;
+}
+
+.youtubeVid {
+    margin: 5px;
+}
+
+.throwbackPic {
+    margin: 5px 0 0 0;
+    display: inline-block;
+    width: 400px;
+    height: 180px;
+}
